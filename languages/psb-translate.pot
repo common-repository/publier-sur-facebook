@@ -1,0 +1,27 @@
+# Translation of the WordPress plugin Publier sur Facebook 1. by David Dattee
+# Copyright (C) 2010 David Dattee
+# This file is distributed under the same license as the Publier sur Facebook.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Publier sur Facebook 1.0\n"
+"POT-Creation-Date: 2010-04-06 18:234+0000\n"
+"PO-Revision-Date: 2010-04-06 18:59+6\n"
+"Last-Translator: DATTEE David <EMAIL@ADDRESS>\n"
+"Language-Team: FRANCAIS <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: publiersurfacebook.php:20
+msgid "Send to my wall"
+msgstr "Envoyer sur mon mur" 
+
+#: publiersurfacebook.php:24
+msgid "The post has to be published before being shared on facebook."
+msgstr "Le post doit d'abord &ecirc;tre publi&eacute; avant d'&ecirc;tre envoy&eacute; sur Facebook." 
+
+#: publiersurfacebook.php:20
+msgid "Publish on Facebook"
+msgstr "Publier sur Facebook" 
